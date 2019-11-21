@@ -1,0 +1,19 @@
+.p-orange{
+  background-color: orange;
+  font-style: oblique;
+}
+.border{
+  border-style: groove;
+  font-size: 15px;
+  font-family: monospace;
+}
+.p-biru{
+  color:white;
+  background-color: blue;
+  font-weight: 400;
+}
+.p-grey{
+  color: black;
+  background-color: grey;
+  font-weight: bold;
+}
